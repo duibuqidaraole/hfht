@@ -1,0 +1,9 @@
+/.metadata
+/*/bin
+/*/.classpath
+/*/.settings
+/*/src/test
+!/sys_core/src/test
+/*/.project
+/*/target
+/.idea

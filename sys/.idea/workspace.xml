@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12431c7a-8393-484e-845c-99b051ccac7d" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/../sys_api_zc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sys_api_zc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sys_quartz/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sys_quartz/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sys_queue/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sys_queue/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../sys_promotion/target/" />
+    <ignored path="$PROJECT_DIR$/../sys_quartz/target/" />
+    <ignored path="$PROJECT_DIR$/../sys_api_zc/target/" />
+    <ignored path="$PROJECT_DIR$/../sys_queue/target/" />
+    <ignored path="$PROJECT_DIR$/../sys_mall/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../sys_core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sys$Application.ic" NAME="Application Coverage Results" MODIFIED="1544175289116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zc.mall.api.zc.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4293">
+              <caret line="188" column="33" selection-start-line="188" selection-start-column="33" selection-end-line="188" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="265" column="12" lean-forward="true" selection-start-line="265" selection-start-column="12" selection-end-line="265" selection-end-column="12" />
+              <folding>
+                <element signature="e#3825#3836#0" expanded="true" />
+                <element signature="e#3939#3950#0" expanded="true" />
+                <element signature="e#5167#5178#0" expanded="true" />
+                <element signature="e#5281#5292#0" expanded="true" />
+                <element signature="e#10184#10185#0" expanded="true" />
+                <element signature="e#10223#10224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegralAccountModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/integral/model/IntegralAccountModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2754">
+              <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/service/impl/CommonServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1917">
+              <caret line="99" column="18" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserAddressController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserAddressController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserAddressServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserAddressServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/service/CommonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/common/CommonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FaCaiYuSmsServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/impl/FaCaiYuSmsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmaySmsServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/impl/EmaySmsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update_operator_id</find>
+      <find>site</find>
+      <find>bonuscoupons</find>
+      <find>zc_pt_bonus_coupons</find>
+      <find>addGroupBy</find>
+      <find>replyRecomment</find>
+      <find>findWaitComment</find>
+      <find>更新商品</find>
+      <find>refundDeal</find>
+      <find>/g/goodspromotion</find>
+      <find>goods_promotion</find>
+      <find>zc_g_goods_promotion</find>
+      <find>goods_promotion_record</find>
+      <find>recommend_ranking</find>
+      <find>goods_promotion_record_id</find>
+      <find>delete</find>
+      <find>giftNumber</find>
+      <find>getPriceInterval</find>
+      <find>新人奖励</find>
+      <find>updateSkuAllIn</find>
+      <find>recommendRanking</find>
+      <find>listWithGrade</find>
+      <find>brokerURL</find>
+      <find>亲爱的C&amp;P粉，终于等到您了，感谢您加入C&amp;P家族。您的验证码是※※※，10分钟后将失效，请抓紧时间与CytoPro打个招呼吧！</find>
+      <find>发送短信</find>
+      <find>getMobileCode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\hongfan\hongfan_mall\sys</dir>
+      <dir>D:\hongfan\hongfan_mall\sys_api_zc</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/model/BonusCouponsModel.java" />
+        <option value="$PROJECT_DIR$/../sys_queue/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/dao/VipCouponsDao.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/service/impl/BonusCouponsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/service/impl/VipCouponsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/service/impl/UserVipCouponsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/model/BonusCouponsRecordModel.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/OrderGoodsCommentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/OrderGoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/xc/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/xc/service/impl/SiteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/OrderGoodsCommentService.java" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/OrderGoodsCommentController.java" />
+        <option value="$PROJECT_DIR$/../sys_quartz/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsSkuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/BonusCouponsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/VipCouponsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/GoodsSkuSpecValueDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/GoodsSkuDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/BonusCouponsRecordDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/OrderInfoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/UserVipCouponsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-datasource.xml" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserController.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/constant/BaseMallConstant.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/OrderGoodsCommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/entity/OrderGoodsComment.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsPromotionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsPromotionRecordServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/entity/GoodsSku.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsSkuSpecValueServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/model/GoodsSkuSpecValueModel.java" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/GoodsSkuSpecValueController.java" />
+        <option value="$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserAddressController.java" />
+        <option value="$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/service/impl/CommonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="396" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="FacaiYu&#9;PSI&#9;JAVA://com.zc.mall.core.common.sms.impl.FaCaiYuSmsServiceImpl&#10;bonures&#9;FILE&#9;file://D:/hongfan/hongfan_mall/sys_promotion/src/main/java/com/zc/mall/promotion/service/impl/BonusCouponsRecordServiceImpl.java&#10;ordergoodscomment&#9;PSI&#9;JAVA://com.zc.mall.api.zc.goods.OrderGoodsCommentController&#10;orderInfo&#9;FILE&#9;file://D:/hongfan/hongfan_mall/sys_mall/src/main/java/com/zc/mall/mall/model/OrderInfoModel.java&#10;refundDeal&#9;PSI&#9;JAVA://com.zc.mall.mall.service.OrderInfoService#refundDeal&#10;VipCouponsDao&#9;FILE&#9;file://D:/hongfan/hongfan_mall/sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/VipCouponsDaoImpl.java&#10;vipcd&#9;FILE&#9;file://D:/hongfan/hongfan_mall/sys_promotion/src/main/java/com/zc/mall/promotion/dao/impl/UserVipCouponsDaoImpl.java" />
+    <property name="last_opened_file_path" value="D:/order/S_Order" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.mall.queue.Application" />
+      <module name="sys_queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.mall.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.mall.api.zc.Application" />
+      <module name="sys_api_zc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.mall.api.zc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.Application (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12431c7a-8393-484e-845c-99b051ccac7d" name="Default" comment="" />
+      <created>1543314137196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543314137196</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1543485357832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543485357832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1543494319716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543494319716</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1543821298259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543821298259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1543917780947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543917780947</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1544061430255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544061430255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1544180081140</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544180081140</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1544266738668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544266738668</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1544419805385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544419805385</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1544494452952</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544494452952</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1544667189785</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544667189785</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1544667486041</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544667486041</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1544680234725</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544680234725</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1544684791334</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544684791334</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1544777413822</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1544777413822</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1544778828638</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1544778828638</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1544779335195</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1544779335195</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1544779427651</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1544779427652</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1544779734190</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1544779734190</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1545962297168</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1545962297168</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3093682" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.35620916" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51599145" side_tool="true" weight="0.2527233" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.4988399" weight="0.018123668" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.48507464" weight="0.25490198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48400852" visible="true" weight="0.2527233" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.48400852" weight="0.38671023" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.5011601" side_tool="true" visible="true" weight="0.025373135" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="118" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="model.orderGoods" />
+        <watch expression="model.orderGoods" language="JAVA" />
+        <watch expression="model.orderGoods" language="JAVA" />
+        <watch expression="model.discount" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/GoodsSpuSpecController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/service/impl/BonusCouponsRecordServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="285" column="52" lean-forward="true" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/promotion/BonusCouponsRecordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/entity/GoodsSpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/entity/GoodsSkuSpecValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/GoodsSpuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsSpuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="59" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/GoodsSpuDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/zc/org/springframework/spring-core/4.2.6.RELEASE/spring-core-4.2.6.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/model/GoodsSkuSpecValueModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-678">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/entity/OrderGoodsComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/model/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8667">
+          <caret line="353" column="5" selection-start-line="353" selection-start-column="5" selection-end-line="353" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/model/OrderGoodsCommentModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/dao/impl/OrderGoodsCommentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/entity/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4239">
+          <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/model/UserInfoModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/UserInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3294">
+          <caret line="144" column="34" selection-start-line="144" selection-start-column="34" selection-end-line="144" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/zc/sys/sys_common/2.0.0.0/sys_common-2.0.0.0.jar!/com/zc/sys/common/form/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsSkuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3807">
+          <caret line="164" column="62" selection-start-line="164" selection-start-column="62" selection-end-line="164" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/GoodsSkuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/applicationConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/zc/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3938">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/zc/com/fasterxml/jackson/core/jackson-databind/jackson-databind/2.6.6/jackson-databind-2.6.6.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1458">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-datasource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-AMQ.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/zc/org/apache/activemq/activemq-core/5.2.0/activemq-core-5.2.0.jar!/org/apache/activemq/ActiveMQConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="281" column="48" lean-forward="true" selection-start-line="281" selection-start-column="48" selection-end-line="281" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-base.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/resources/spring/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/goods/GoodsSkuSpecValueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="96" column="48" selection-start-line="96" selection-start-column="48" selection-end-line="96" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_mall/src/main/java/com/zc/mall/mall/service/impl/GoodsSkuSpecValueServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="112" column="7" lean-forward="true" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/impl/SmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/SmsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/impl/EmaySmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/global/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="84" column="54" lean-forward="true" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/sms/impl/FaCaiYuSmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/service/CommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/common/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserAddressServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="47" column="54" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserAddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/common/service/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="99" column="18" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/zc/sys/sys_common/2.0.0.0/sys_common-2.0.0.0.jar!/com/zc/sys/common/dao/BaseDao.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/integral/model/IntegralAccountModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_api_zc/src/main/java/com/zc/mall/api/zc/user/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4293">
+          <caret line="188" column="33" selection-start-line="188" selection-start-column="33" selection-end-line="188" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sys_core/src/main/java/com/zc/mall/core/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="265" column="12" lean-forward="true" selection-start-line="265" selection-start-column="12" selection-end-line="265" selection-end-column="12" />
+          <folding>
+            <element signature="e#3825#3836#0" expanded="true" />
+            <element signature="e#3939#3950#0" expanded="true" />
+            <element signature="e#5167#5178#0" expanded="true" />
+            <element signature="e#5281#5292#0" expanded="true" />
+            <element signature="e#10184#10185#0" expanded="true" />
+            <element signature="e#10223#10224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sys_api_zc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:0.2.19</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/../sys_api_zc" />
+  </component>
+</project>

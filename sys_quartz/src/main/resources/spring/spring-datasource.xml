@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:task="http://www.springframework.org/schema/task" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+       http://www.springframework.org/schema/tx
+       http://www.springframework.org/schema/tx/spring-tx.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+	   http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop-2.0.xsd
+       http://www.springframework.org/schema/mvc   
+       http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
+	<bean id="dataSource" class="com.jolbox.bonecp.BoneCPDataSource"
+		destroy-method="close">	
+        <property name="driverClass" value="${jdbc.driver}"/>
+        <property name="jdbcUrl" value="${jdbc.url}" />
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+		<!-- 连接池中未使用的链接最大存活时间 -->
+		<property name="idleMaxAge" value="240" />
+		<!-- 设置每个分区含有connection最大个数 -->
+		<property name="maxConnectionsPerPartition" value="20" />
+		<!-- 设置每个分区含有connection最小个数 -->
+		<property name="minConnectionsPerPartition" value="10" />
+		<!-- 设置每个分区数 -->
+		<property name="partitionCount" value="3" />
+		<!-- 设置分区中的connection增长数量 -->
+		<property name="acquireIncrement" value="5" />
+		<property name="statementsCacheSize" value="50" />
+		<property name="releaseHelperThreads" value="3" />
+		<property name="disableConnectionTracking" value="true" />
+	</bean>
+
+	<!-- Jpa Entity Manager 配置 -->
+	<bean id="entityManagerFactory"
+		class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="jpaVendorAdapter" ref="hibernateJpaVendorAdapter" />
+		<property name="packagesToScan">
+			<list>
+				<value>com.zc.mall.core.*.entity</value>
+				<value>com.zc.mall.*.entity</value>
+			</list>
+		</property>
+		<property name="jpaProperties">
+			<props>
+				<prop key="hibernate.service.jdbc.connections.spi.provider_class">com.jolbox.bonecp.provider.BoneCPConnectionProvider
+				</prop>
+                <!-- <prop key="hibernate.show_sql">true</prop> 
+ 				<prop key="hibernate.format_sql">true</prop> -->
+<!-- 				<prop key="hibernate.hbm2ddl.auto">update</prop> -->
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</prop>
+				<prop key="hibernate.ejb.naming_strategy">org.hibernate.cfg.ImprovedNamingStrategy</prop>
+				<prop key="hibernate.cache.region.factory_class">org.hibernate.cache.ehcache.EhCacheRegionFactory</prop>
+			</props>
+		</property>
+	</bean>
+
+	<bean id="hibernateJpaVendorAdapter"
+		class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter" />
+
+	<bean id="txManager" class="org.springframework.orm.jpa.JpaTransactionManager">
+		<property name="entityManagerFactory" ref="entityManagerFactory" />
+	</bean>
+
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+</beans>

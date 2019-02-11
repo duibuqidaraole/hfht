@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/../sys_promotion/src/main/java/com/zc/mall/promotion/way/impl/PromotionWayReg.java" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sys_api_zc" />
+        <module name="sys_core" />
+        <module name="sys_mall" />
+        <module name="sys_promotion" />
+        <module name="sys_quartz" />
+        <module name="sys_queue" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
